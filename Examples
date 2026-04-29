@@ -1,0 +1,9 @@
+# Sample Patient Flow
+
+1. Patient registers at Hospital A
+2. Unique Patient ID is generated
+3. Patient visits Hospital B
+4. Hospital B retrieves patient data using HIE API
+5. Referral is created and tracked across facilities
+
+This demonstrates continuity of care enabled by the system.
