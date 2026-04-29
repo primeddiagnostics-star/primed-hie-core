@@ -1,0 +1,11 @@
+# System Architecture Overview
+
+The Primed HIE Core follows a modular, API-first architecture:
+
+- Patient Identity Layer: Generates and manages unique patient IDs
+- Interoperability Layer: Handles data exchange between facilities
+- Application Layer: Supports registration, appointments, and referrals
+- Offline Sync Engine: Enables operation in low-connectivity environments
+- Integration Layer: Connects to existing hospital systems
+
+The system is designed for scalability, multi-tenancy, and deployment across multiple healthcare environments.
