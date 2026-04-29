@@ -1,0 +1,10 @@
+# API Overview
+
+This module will expose interoperable APIs for:
+
+- Patient registration and identity lookup
+- Appointment scheduling
+- Referral management
+- Health record access (controlled and secure)
+
+The APIs are designed to follow RESTful principles and support integration with existing hospital systems.
